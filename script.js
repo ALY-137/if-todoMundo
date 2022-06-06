@@ -30,3 +30,7 @@ function lista(){
     botaoMenu.style.display =  'none';
     ativoMenu = 1;
 }
+
+function seguir(){
+       alert('ESTA PÁGINA É APENAS UM PROTÓTIPO!')
+}

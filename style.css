@@ -80,10 +80,11 @@ body{
 
 
 #lista{
-    position: absolute;
+    position: relative;
     width: 100%;
-    height:100vw;
+    height:100%;
     background-color: #07001a;
+    margin-bottom: 20px; 
 }
 
 #imgMenu{
@@ -117,10 +118,11 @@ body{
 
 #sobre{
     background-color: #07001a;
-    position: absolute;
+    position: relative;
     width: 100%;
-    height:100vw;
+    height:100%;
     display:none;
+    margin-bottom: 10px;
     
 }
 
